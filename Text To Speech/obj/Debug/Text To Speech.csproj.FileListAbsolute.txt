@@ -1,0 +1,11 @@
+E:\csharp\Text To Speech\Text To Speech\bin\Debug\Text To Speech.exe.config
+E:\csharp\Text To Speech\Text To Speech\bin\Debug\Text To Speech.exe
+E:\csharp\Text To Speech\Text To Speech\bin\Debug\Text To Speech.pdb
+E:\csharp\Text To Speech\Text To Speech\obj\Debug\Text To Speech.csproj.AssemblyReference.cache
+E:\csharp\Text To Speech\Text To Speech\obj\Debug\Text To Speech.csproj.SuggestedBindingRedirects.cache
+E:\csharp\Text To Speech\Text To Speech\obj\Debug\Text_To_Speech.Form1.resources
+E:\csharp\Text To Speech\Text To Speech\obj\Debug\Text_To_Speech.Properties.Resources.resources
+E:\csharp\Text To Speech\Text To Speech\obj\Debug\Text To Speech.csproj.GenerateResource.cache
+E:\csharp\Text To Speech\Text To Speech\obj\Debug\Text To Speech.csproj.CoreCompileInputs.cache
+E:\csharp\Text To Speech\Text To Speech\obj\Debug\Text To Speech.exe
+E:\csharp\Text To Speech\Text To Speech\obj\Debug\Text To Speech.pdb
